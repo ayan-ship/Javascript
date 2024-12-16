@@ -37,3 +37,5 @@ console.log(typeof myfunction); // will give function as an output but in it is 
 let arr =["hi" ,"this" ,"is", "an", "array"]
 
 console.log(typeof arr);// this will give object as an output bcz all non primitive variable generally give object as an output
+
+/* stack (primitive vs heap(non-primitive)*/
